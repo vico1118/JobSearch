@@ -101,6 +101,6 @@ ITEM_PIPELINES = {
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(BASE_DIR, 'JobSpider'))
 
-PROXY_SERVER = 'http://http-dyn.abuyun.com:9020'
-PROXY_USER = 'H0D056263YNZPEKD'
-PROXY_PASS = '0F5C4C53F974FA56'
+PROXY_SERVER = 
+PROXY_USER = 
+PROXY_PASS = 
